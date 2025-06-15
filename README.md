@@ -5,7 +5,7 @@
   while leveraging my Java & Spring Boot background. I enjoy collaborating in Agile/Scrum environments and contributing to open source. 🚀📱
 </h3>
 
-📫 How to reach me: iremtasci.t@mail.com  
+📫 How to reach me: iremtasci.t@gmail.com  
 🌎 Check out more on my GitHub: [github.com/iremtasci](https://github.com/iremtasci)
 
 <h3 align="left">Connect with me:</h3> 
